@@ -1,7 +1,7 @@
 Python Refresher
 ================
 
-After working through tis material, attendees should be able to:
+After working through this material, attendees should be able to:
 
 * Write and execute Python code on a remote server
 * Use variables, lists, and dictionaries in Python

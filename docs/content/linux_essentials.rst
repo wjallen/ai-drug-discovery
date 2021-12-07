@@ -1,7 +1,7 @@
 Linux Essentials
 ================
 
-After working through tis material, attendees should be able to:
+After working through this material, attendees should be able to:
 
 * Describe basic functions of essential Linux commands
 * Use Linux commands to navigate a file system and manipulate files
