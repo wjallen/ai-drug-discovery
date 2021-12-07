@@ -1,3 +1,2 @@
-NumPy, SciPy, and Matplotlib Refresher
-======================================
-
+NumPy, SciPy, and Matplotlib Primer
+===================================
