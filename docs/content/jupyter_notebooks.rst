@@ -50,59 +50,58 @@ following settings:
     :width: 600px
     :align: center
 
-    Launch a Jupyter Notebook through the TACC Analysis Portal.
-
+|
 The original, and more common "tree" interface to Jupyter will display a file
-browser (in this case to files in your Longhorn /home directory).
+browser (in this case to files in your Longhorn /home directory):
 
 .. figure:: images/jupyter_overview_1.png
     :width: 700px
     :align: center
 
-
+|
 New Python3 kernels and Terminals can be launched by clicking the "New" button
-on the right side.
+on the right side:
 
 .. figure:: images/jupyter_overview_2.png
     :width: 700px
     :align: center
 
-
+|
 Running kernels can be accessed through the "Running" tab on the top. By default,
 the Jupyter Notebooks will be saved in your /home directory with a ``.ipynb``
 extension. (Re-opening the notebook will open all the cells, and restore the state
-of the kernel - more on this later).
+of the kernel - more on this later):
 
 .. figure:: images/jupyter_overview_3.png
     :width: 700px
     :align: center
 
-
+|
 The terminal is a standard, fully-functional terminal. Very useful for debugging
 and interacting with files / directories. For example, you can easily ``wget`` a
-data set or unzip a file.
+data set or unzip a file:
 
 .. figure:: images/jupyter_overview_4.png
     :width: 700px
     :align: center
 
-
+|
 The Jupyter notebook consists of a toolbar (top) and an unlimited number of
-cells (bottom).
+cells (bottom):
 
 .. figure:: images/jupyter_overview_5.png
     :width: 700px
     :align: center
 
-
+|
 Cells can be either "code cells" or "markdown cells". Code cells allow you to
 enter and run code. Markdown cells use the markdown markup language to comment on
-or narrate what is happening in the notebook.
+or narrate what is happening in the notebook:
 
 .. figure:: images/jupyter_overview_6.png
     :width: 700px
     :align: center
-
+|
 
 Miscellaneous Tips and Tricks
 -----------------------------

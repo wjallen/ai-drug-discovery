@@ -99,7 +99,7 @@ Before We Continue
 Using your SSH client, please try to log in to Longhorn:
 
 .. code-block:: console
-   :emphasize-lines: 1,7,8,54
+   :emphasize-lines: 1,7,8,50
 
    [local]$ ssh wallen@longhorn.tacc.utexas.edu
    To access the system:

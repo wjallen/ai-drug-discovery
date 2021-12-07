@@ -73,14 +73,16 @@ Start up the interactive Python interpreter:
 .. code-block:: console
 
    [longhorn]$ python3
-   Python 3.6.8 (default, Aug  7 2019, 17:28:10)
-   [GCC 4.8.5 20150623 (Red Hat 4.8.5-39)] on linux
+   Python 3.6.8 (default, Apr 25 2019, 20:47:23)
+   [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)] on linux
    Type "help", "copyright", "credits" or "license" for more information.
    >>>
+
 
 .. tip::
 
    To exit the interpreter, type ``quit()``.
+
 
 The most common data types in Python are similar to other programming languages.
 For this workshop, we probably only need to worry about **integers**, **floats**,
@@ -151,7 +153,7 @@ Arithmetic Operations
 Next, we will look at some basic arithmetic. You are probably familiar with the
 standard operations from other languages:
 
-.. code-block:: console
+.. code-block:: bash
 
    Operator   Function          Example   Result
    +          Addition          1+1       2
@@ -320,7 +322,7 @@ Python **comparison operators** allow you to add conditions into your code in
 the form of ``if`` / ``elif`` / ``else`` statements. Valid comparison operators
 include:
 
-.. code-block:: console
+.. code-block:: bash
 
    Operator   Comparison                 Example   Result
    ==         Equal                      1==2       False
@@ -348,7 +350,7 @@ A valid conditional statement might look like:
 In addition, conditional statements can be combined with **logical operators**.
 Valid logical operators include:
 
-.. code-block:: console
+.. code-block:: bash
 
    Operator   Description                           Example
    and        Returns True if both are True         a < b and c < d
@@ -442,7 +444,7 @@ absolutely essential to keeping code clean and organized.
 
 On the command line, use a text editor to start writing a Python script:
 
-.. code-block:: bash
+.. code-block:: console
 
    [longhorn]$ vim function_test.py
 
@@ -460,7 +462,7 @@ Enter the following text into the script:
 After saving and quiting the file, execute the script (Python code is not
 compiled - just run the raw script with the ``python3`` executable):
 
-.. code-block:: bash
+.. code-block:: console
 
    [longhorn]$ python3 function_test.py
    Hello, world!

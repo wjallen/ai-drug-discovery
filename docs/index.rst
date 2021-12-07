@@ -16,6 +16,7 @@ for domain scientists to be successful in AI coding projects.
    content/jupyter_notebooks
    content/linux_essentials
    content/python_refresher
+   content/numpy_scipy_matplotlib
 
 
 
