@@ -108,7 +108,9 @@ Matplotlib
 visualizations of data.
 
 You can use it to create many different types of plots (line, histogram, scatter,
-countour, 3D, etc.) with full control over all labels, colors, styles, etc.
+countour, 3D, etc.) with full control over all labels, colors, styles, etc. Look
+online for examples of the kind of plot you want to make, and undoubtedly there
+will be some Matplotlib samples available.
 
 
 .. code-block:: python3
