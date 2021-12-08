@@ -1,5 +1,5 @@
-Linux Essentials
-================
+Linux Refresher
+===============
 
 After working through this material, attendees should be able to:
 

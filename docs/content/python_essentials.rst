@@ -1,5 +1,5 @@
-Python Refresher
-================
+Python Essentials
+=================
 
 After working through this material, attendees should be able to:
 
