@@ -14,8 +14,8 @@ for domain scientists to be successful in AI coding projects.
 
    content/tacc_onboarding
    content/jupyter_notebooks
-   content/linux_essentials
-   content/python_refresher
+   content/linux_refresher
+   content/python_essentials
    content/numpy_scipy_matplotlib
 
 
