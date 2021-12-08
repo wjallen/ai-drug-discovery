@@ -32,7 +32,7 @@ How do You Access Jupyter Notebooks?
 3. The TACC `DesignSafe Portal <https://www.designsafe-ci.org>`_ allows anyone with
    a TACC account to use Jupyter. (Log in, choose Workspace => Tools and Applications => Jupyter)
 4. TACC provides small, short lived Jupyter notebooks to anyone with a TACC account
-   via the `TACC Cloud <https://jupyter.tacc.cloud/hub/login>`_.
+   via the `TACC Cloud <https://beta.jupyter.tacc.cloud/>`_.
 5. Public Jupyter notebooks are available through sites like
    `Google Colaboratory <https://research.google.com/colaboratory/>`_.
 6. Service exist to share notebooks in a browser including `Binder <https://mybinder.org/>`_.
