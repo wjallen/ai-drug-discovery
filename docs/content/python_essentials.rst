@@ -544,7 +544,7 @@ For example, to read a file do the following:
 .. code-block:: python3
    :linenos:
 
-   with open('/usr/share/dict/linux.words', 'r') as f:
+   with open('/usr/share/dict/words', 'r') as f:
        for x in range(5):
            print(f.readline())
 
@@ -579,7 +579,7 @@ is the easiest way to solve this problem:
 .. code-block:: python3
    :linenos:
 
-   with open('/usr/share/dict/linux.words', 'r') as f:
+   with open('/usr/share/dict/words', 'r') as f:
        for x in range(5):
            print(f.readline().strip('\n'))
 
@@ -599,7 +599,7 @@ Read the whole file and store it as a list:
 
    words = []
 
-   with open('/usr/share/dict/linux.words', 'r') as f:
+   with open('/usr/share/dict/words', 'r') as f:
        words = f.read().splitlines()                # careful of memory usage
 
    for x in range(5):
@@ -744,7 +744,7 @@ exercises.
   should contain the cubes of each element in the first list. Print all three
   lists side-by-side in three columns. E.g. the first row should contain 1, 1, 1
   and the second row should contain 2, 4, 8.
-* Write a script to read in /usr/share/dict/linux.words and print just the last 10
+* Write a script to read in /usr/share/dict/words and print just the last 10
   lines of the file. Write another script to only print words beginning with the
   letters "pyt".
 
