@@ -137,9 +137,9 @@ links to your /work and /scratch directories in your /home directory
 
    [longhorn]$ cd
    [longhorn]$ pwd
-   /home/03439/wallen
-   [longhorn]$ ln -s /work/03439/wallen/ WORK
-   [longhorn]$ ln -s /scratch/03439/wallen/ SCRATCH
+   /home/012345/username
+   [longhorn]$ ln -s $WORK WORK
+   [longhorn]$ ln -s $SCRATCH SCRATCH
 
 
 Exercise

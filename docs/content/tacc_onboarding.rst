@@ -96,12 +96,13 @@ Research Campus.
 Before We Continue
 ------------------
 
-Using your SSH client, please try to log in to Longhorn:
+Using your SSH client, please try to log in to Longhorn. Make sure to use your own
+username in place of ``username``:
 
 .. code-block:: console
    :emphasize-lines: 1,7,8,50
 
-   [local]$ ssh wallen@longhorn.tacc.utexas.edu
+   [local]$ ssh username@longhorn.tacc.utexas.edu
    To access the system:
 
    1) If not using ssh-keys, please enter your TACC password at the password prompt
@@ -139,11 +140,11 @@ Using your SSH client, please try to log in to Longhorn:
        | |___| (_) | \ \ | (_--   (     )  |  _  | (_) | '' /| \ \ |
        |_____|\___/|_|\__|\___/    '---'   |_| |_|\___/|_|\_\|_|\__|
 
-   ---------------------- Project balances for user wallen -----------------------
+   ---------------------- Project balances for user username ---------------------
    | Name           Avail SUs     Expires | Name           Avail SUs     Expires |
    | ASC21018           12000  2022-06-30 | SD2E-Communit       5548  2021-12-31 |
    | TACC-SCI          221130  2025-06-30 | TRA21002            2040  2021-12-31 |
-   ------------------------- Disk quotas for user wallen -------------------------
+   ------------------------- Disk quotas for user username -----------------------
    | Disk         Usage (GB)     Limit    %Used   File Usage       Limit   %Used |
    | /work             436.5    1024.0    42.63      1445104     3000000   48.17 |
    | /home              28.1      40.0    70.26       192235      512000   37.55 |
